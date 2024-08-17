@@ -27,4 +27,4 @@ jobs:
         path: ./artifacts
      - name: cat
        run: |
-         cat ./artifacts/hello-artifact/hello.txt
+         cat ./artifacts/hello.txt
